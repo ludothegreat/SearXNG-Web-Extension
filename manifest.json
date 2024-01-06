@@ -18,11 +18,10 @@
   },
   "chrome_settings_overrides": {
     "search_provider": {
-      "name": "SearXNG",
-      "keyword": "@searxng, @searx, @sx",
-      "search_url": "https://searx.be/search?q={searchTerms}",
-      "favicon_url": "searxng128.webp",
-      "suggest_url": "https://searx.be/autocompleter?q={searchTerms}",
+      "name": "BareSearch",
+      "keyword": "@baresearch",
+      "search_url": "https://baresearch.org?q={searchTerms}",
+      "favicon_url": "your-baresearch-icon.webp",
       "is_default": true
     }
   }
